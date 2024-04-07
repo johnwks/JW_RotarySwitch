@@ -1,0 +1,13 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,C,C_0402_1005Metric,132.207,-49.784,0.0,top
+R1,R_Small,R_0402_1005Metric,138.176,-55.88,0.0,top
+R2,R_Small,R_0402_1005Metric,141.224,-58.928,0.0,top
+R3,R_Small,R_0402_1005Metric,142.24,-62.992,0.0,top
+R4,R_Small,R_0402_1005Metric,141.224,-67.564,180.0,top
+R5,R_Small,R_0402_1005Metric,138.176,-71.12,180.0,top
+R6,R_Small,R_0402_1005Metric,133.604,-72.136,180.0,top
+R7,R_Small,R_0402_1005Metric,129.032,-71.12,180.0,top
+R8,R_Small,R_0402_1005Metric,125.984,-67.564,180.0,top
+R9,R_Small,R_0402_1005Metric,124.968,-62.992,0.0,top
+R10,R_Small,R_0402_1005Metric,125.984,-58.928,0.0,top
+R11,R_Small,R_0402_1005Metric,129.032,-55.88,0.0,top
