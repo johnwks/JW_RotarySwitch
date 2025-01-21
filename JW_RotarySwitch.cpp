@@ -25,7 +25,8 @@ void JW_RotarySwitch::process()
 {
     uint8_t oldpos = position, tmp;
 
-    value = analogRead(pin);
+    // value = analogRead(pin);
+    value = readValAvg();
     tmp = findPosition(value);
     if (tmp == JWRS_INVALID_POS)
     {
